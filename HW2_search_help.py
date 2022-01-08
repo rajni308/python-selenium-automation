@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 
-driver = webdriver.Chrome(executable_path='/Users/rajni/PycharmProjects/python-selenium-automation/chromedriver')
+driver = webdriver.Chrome(executable_path='/Users/rajni/PycharmProjects/cleaner-python-selenium-automation/python-selenium-automation/chromedriver')
 driver.implicitly_wait(5)
 
 driver.get('https://www.amazon.com/gp/help/customer/display.html')

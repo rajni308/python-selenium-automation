@@ -5,7 +5,6 @@ Feature: sign in tests
  3. Verify Sign in page opened
 
 
-
   Scenario: user can see sign page
     Given Open Amazon page
     When Click Orders

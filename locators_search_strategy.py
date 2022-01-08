@@ -20,10 +20,8 @@ driver.find_element(By.Id('ap-other-signin-issues-link'))
 driver.find_element(By.Id('createAccountSubmit'))
 
 # conditions of use link
-driver.find_element(By.XPATH,"//a[@href= '/gp/help/customer/display.html/ref=ap_signin_
-                             notification_condition_of_use?ie=UTF8&nodeId=508088']")
+driver.find_element(By.XPATH,"//a[@href= '/gp/help/customer/display.html/ref=ap_signin_notification_condition_of_use?ie=UTF8&nodeId=508088']")
 # privacy notice link
-driver.find_element(By.XPATH,"//a[@href='/gp/help/customer/display.html/ref=ap_signin_
-notification_privacy_notice?ie=UTF8&nodeId=468496']")
+driver.find_element(By.XPATH,"//a[@href='/gp/help/customer/display.html/ref=ap_signin_notification_privacy_notice?ie=UTF8&nodeId=468496']")
 
 
