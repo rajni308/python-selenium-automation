@@ -1,0 +1,17 @@
+body{
+
+    background-image: url("backg.jpeg");
+
+}
+.header{
+    font-size: large;
+}
+h4{
+    text-transform: uppercase;
+}
+.section{
+    background-color: darkseagreen;
+}
+h4{
+     text-transform: uppercase;
+}
